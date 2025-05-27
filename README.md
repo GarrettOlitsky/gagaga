@@ -1,6 +1,7 @@
 
 
-Gagaga is a Galaga-style arcade shooter game built with Python and Pygame.
+Gagaga is a Galaga-style arcade shooter game built with Python and Pygame. Very basic 
+
 
 ## How to Run
 
