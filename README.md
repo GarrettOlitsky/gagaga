@@ -1,4 +1,4 @@
-echo "# Gagaga
+
 
 Gagaga is a Galaga-style arcade shooter game built with Python and Pygame.
 
@@ -26,6 +26,4 @@ python gagaga.py
 - Python 3.x
 - Pygame
 
----
-
-Made by Garrett Olitsky" > README.md
+d
