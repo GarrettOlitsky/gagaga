@@ -27,4 +27,4 @@ python gagaga.py
 - Python 3.x
 - Pygame
 
-d
+:()
