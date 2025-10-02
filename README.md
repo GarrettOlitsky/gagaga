@@ -1,30 +1,31 @@
+# Gagaga - Space Shooter
 
+A fast-paced retro-style space shooter built with **Pygame**.  
+Pilot your ship, blast enemies, and climb the high score ladder.
 
-Gagaga is a Galaga-style arcade shooter game built with Python and Pygame. Very basic 
+---
 
+## 🎮 Features
+- Smooth ship controls (arrow keys / WASD)
+- Multiple enemy types with unique colors
+- Progressive level system with **gentle difficulty ramping**
+- Neon-inspired visual style with starfield background & HUD overlay
+- Local high score tracking (`highscore.txt`)
 
-## How to Run
+---
 
-1. Make sure Python and Pygame are installed:
-\`\`\`
-pip install pygame
-\`\`\`
+## ▶️ Installation & Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/GarrettOlitsky/gagaga.git
+   cd gagaga
+Install dependencies:
 
-2. Run the game:
-\`\`\`
-python gagaga.py
-\`\`\`
+bash
+Copy code
+pip install -r requirements.txt
+Run the game:
 
-## Features
-
-- Classic space shooter gameplay
-- Increasing difficulty each level
-- Score and high score tracking
-- Simple pixel-style graphics
-
-## Requirements
-
-- Python 3.x
-- Pygame
-
-:()
+bash
+Copy code
+python main.py
