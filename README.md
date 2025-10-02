@@ -16,16 +16,14 @@ Pilot your ship, blast enemies, and climb the high score ladder.
 
 ## ▶️ Installation & Run
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/GarrettOlitsky/gagaga.git
    cd gagaga
 Install dependencies:
-
-bash
-Copy code
+```
 pip install -r requirements.txt
+```
 Run the game:
-
-bash
-Copy code
+```
 python main.py
+```
